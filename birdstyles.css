@@ -17,11 +17,12 @@ article.tweet{
     border-radius: 16px;
 }
 
-header.div{
-      float:left;
+left.div{
+    float:left;  
 }
 
-div.Comment{
+div.comments{
+
 
 }
 div.retweet{
